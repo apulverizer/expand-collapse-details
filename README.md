@@ -1,6 +1,8 @@
 # expand-collapse-details
 A simple Chrome extension to expand and collapse `<details>` tags on webpages.
 
+Available in the [Chrome Store](https://chrome.google.com/webstore/detail/expand-or-collapse-detail/ijoipgdlngpfkmidpphfiiggjcfknaln)
+
 
 ### Installation/Setup
 
